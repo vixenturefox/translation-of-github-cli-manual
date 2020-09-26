@@ -1,2 +1,1 @@
-# translation-of-github-cli-manual
-KR: translation of github-cli manual
+# 드디어 <GitHubCLI1.0> 을 사용할 수 있게 되었습니다.
