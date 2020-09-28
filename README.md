@@ -11,6 +11,6 @@
     20,000개가 넘는 이슈를 만들었습니다.
     이제 깃헙 CLI는 베타가 아니며, 윈도우, 맥, 리눅스에서 다운가능합니다.
 
-
+## GitHub CLI 1.0
 ### 번역 사이트
 ##### https://github.blog/2020-09-17-github-cli-1-0-is-now-available/
