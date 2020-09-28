@@ -1,5 +1,8 @@
 # 드디어 GitHubCLI1.0 을 사용할 수 있게 되었습니다.
-
+---
+### 번역 사이트
+* ##### https://github.blog/2020-09-17-github-cli-1-0-is-now-available/
+---
 ## 말하기에 앞서
 
     깃헙 CLI는 깃헙을 터미널로 가져옵니다.
@@ -10,7 +13,10 @@
     350,000개 이상의 merge를 하였으며,
     20,000개가 넘는 이슈를 만들었습니다.
     이제 깃헙 CLI는 베타가 아니며, 윈도우, 맥, 리눅스에서 다운가능합니다.
+<<<<<<< HEAD
 
 ## GitHub CLI 1.0
 ### 번역 사이트
 ##### https://github.blog/2020-09-17-github-cli-1-0-is-now-available/
+=======
+>>>>>>> 93e757dfa5ccd38c0cc6c8ba711da4919b0747a0
